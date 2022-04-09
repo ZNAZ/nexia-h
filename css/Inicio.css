@@ -15,6 +15,7 @@ li{
 .logo_menu{
   max-width: 200px;
   padding-left: 50px;
+
 }
 .navbar{
   position: relative;
@@ -24,4 +25,11 @@ li{
   justify-content: space-between;
   /* padding-top: 0.5rem; */
   padding-bottom: 0.5rem;
+  height: 80px;
+}
+.menu_logo{
+
+  position:initial;
+  height: 1000px;
+
 }
